@@ -79,55 +79,55 @@ window._products_list = [
     {
         "id": 1,
         "title": "Be grateful, for everything.",
-        "image": "https://behapy.s3.amazonaws.com/76/34/597634/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/1.jpg",
         "price": 49.99
     },
     {
         "id": 2,
         "title": "Joy is the simplest form of gratitude.",
-        "image": "https://behapy.s3.amazonaws.com/76/30/597630/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/2.jpg",
         "price": 49.99
     },
     {
         "id": 3,
         "title": "Spend your life doing strange things with weird people",
-        "image": "https://behapy.s3.amazonaws.com/74/36/597436/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/3.jpg",
         "price": 49.99
     },
     {
         "id": 4,
         "title": "People are as  happy  as they make their minds up to be",
-        "image": "https://behapy.s3.amazonaws.com/72/11/597211/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/4.jpg",
         "price": 49.99
     },
     {
         "id": 5,
         "title": "Not all of us can do great things But we can do small things with great love",
-        "image": "https://behapy.s3.amazonaws.com/70/79/597079/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/5.jpg",
         "price": 49.99
     },
     {
         "id": 6,
         "title": "A pessimist sleeps with a knife under his pillow",
-        "image": "https://behapy.s3.amazonaws.com/61/65/596165/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/6.jpg",
         "price": 49.99
     },
     {
         "id": 7,
         "title": "Everything you want is out there waiting for you to ask",
-        "image": "https://behapy.s3.amazonaws.com/61/42/596142/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/7.jpg",
         "price": 49.99
     },
     {
         "id": 8,
         "title": "Kind words can be short",
-        "image": "https://behapy.s3.amazonaws.com/27/99/592799/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/8.jpg",
         "price": 49.99
     },
     {
         "id": 9,
         "title": "Be who you are",
-        "image": "https://behapy.s3.amazonaws.com/39/40/593940/default.jpg",
+        "image": "https://s3-us-west-1.amazonaws.com/keen-guides/ecommerce-analytics/9.jpg",
         "price": 49.99
     }
 ];
